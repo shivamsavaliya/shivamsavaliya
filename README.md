@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shivam Savaliya and I'm a Flutter Developer, from India.</h2>
+<h2 align="left">Hi 👋! My name is Shivam Savaliya and I'm a Flutter Developer, from Ahmedabad, Gujarat</h2>
 
 ###
 
