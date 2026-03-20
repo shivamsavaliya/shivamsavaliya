@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shivam Savaliya and I'm a Mobile Application Developer</h2>
+<h2 align="left">Hi 👋! My name is Shivam Savaliya and I'm a Software Developer</h2>
 
 ###
 
